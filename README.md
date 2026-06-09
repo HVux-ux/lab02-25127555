@@ -21,9 +21,6 @@ git clone https://github.com/HVux-ux/lab02-25127555
 g++ Bai9/main.cpp -o main
 ```
 
-```PAT
-```
-
 ## prompt history
 
 https://copilot.microsoft.com/shares/74wjackmgjJnzN4Sag1kW
