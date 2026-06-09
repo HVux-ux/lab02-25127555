@@ -22,7 +22,6 @@ g++ Bai9/main.cpp -o main
 ```
 
 ```PAT
-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
 ```
 
 ## prompt history
