@@ -20,7 +20,10 @@ git clone https://github.com/HVux-ux/lab02-25127555
 ```bash
 g++ Bai9/main.cpp -o main
 ```
-test
+
+```PAT
+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
+```
 
 ## prompt history
 
