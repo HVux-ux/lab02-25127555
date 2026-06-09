@@ -20,6 +20,7 @@ git clone https://github.com/HVux-ux/lab02-25127555
 ```bash
 g++ Bai9/main.cpp -o main
 ```
+test
 
 ## prompt history
 
